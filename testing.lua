@@ -21,7 +21,7 @@ local ESP = {
 local cam = workspace.CurrentCamera
 local plrs = game:GetService("Players")
 local plr = plrs.LocalPlayer.Character
-local mouse = plrs.LocalPlayer.Character:GetMouse()
+--local mouse = plrs.LocalPlayer.Character:GetMouse()
 
 local V3new = Vector3.new
 local WorldToViewportPoint = cam.WorldToViewportPoint
