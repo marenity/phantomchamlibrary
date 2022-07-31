@@ -20,7 +20,7 @@ local ESP = {
 --Declarations--
 local cam = workspace.CurrentCamera
 local plrs = game:GetService("Players")
-local plr = plrs.LocalPlayer.Character
+local plr = plrs.LocalPlayer
 --local mouse = plrs.LocalPlayer.Character:GetMouse()
 
 local V3new = Vector3.new
